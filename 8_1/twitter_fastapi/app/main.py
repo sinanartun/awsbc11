@@ -10,6 +10,7 @@ origins = [
     "https://x.com",
     "https://sentiment.github.rocks",
     "https://sentiment.github.rocks:8000",
+    "https://localhost:8000",
     # Add other origins as needed
 ]
 
