@@ -22,7 +22,7 @@ async function extractTweets() {
 
 // Function to send POST request to API for sentiment analysis
 async function sendTweetForAnalysis(tweetObj) {
-  const url = 'https://twitter2.github.rocks/sentiment/';
+  const url = 'https://x.github.rocks/sentiment/';
   const data = {
     text: tweetObj.text
   };
